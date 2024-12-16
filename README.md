@@ -27,7 +27,6 @@ Lucas: "Gostaria de lançar o site o quanto antes."
 
 ----brienfing digitalizado------
 
-Criação do Documento de Briefing:
 Resumo do Projeto:
 A Street Side é uma loja de streetwear focada em moda urbana e lifestyle jovem. O objetivo principal do site é promover as últimas coleções, permitir que os clientes comprem produtos online e criar uma plataforma visualmente impactante e moderna que se conecte com um público jovem e antenado.
 
@@ -36,13 +35,18 @@ Criar um site de e-commerce moderno e responsivo, com foco nas últimas tendênc
 Destacar lançamentos e coleções exclusivas, além de permitir a compra de roupas e acessórios de forma simples e intuitiva.
 Criar uma experiência de navegação envolvente, com animações e transições dinâmicas que tornem o site mais interativo e divertido.
 Refletir a identidade da marca Street Side, com um design jovem, autêntico e cheio de estilo.
-Aumentar as vendas online e criar um canal de comunicação direto com os clientes.
+Aumentar as vendas online e criar um canal de comunicação direto com os clientes. 
+
 Público-Alvo:
 Primário: Jovens adultos entre 18 e 30 anos, antenados nas tendências de streetwear, cultura hip-hop, skate e lifestyle urbano. O público é descolado, moderno e busca autenticidade nas marcas que consome.
 Secundário: Pessoas que estão começando a se interessar por streetwear e buscam por roupas e acessórios de marcas autênticas e estilosas.
+
+
 Estilo Visual:
 Cores predominantes: Preto, branco, cinza, com toques de cores vibrantes como verde limão, neon ou roxo. Esse esquema de cores visa criar um contraste moderno e urbano, dando um toque de ousadia e estilo.
 Tipografia: Fontes modernas e ousadas, com letras grandes e impactantes. Fontes que remetam ao estilo jovem e urbano, com boa legibilidade e que combinem com a pegada streetwear.
 Layout: Clean, com imagens em destaque, focado em fotos de alta qualidade dos produtos. Design minimalista, mas com detalhes modernos, como animações e transições suaves que criem uma sensação de dinamismo.
 Elementos interativos: Animações e transições dinâmicas ao passar o mouse, rolar a página e clicar nos produtos. O design também inclui efeitos de hover para aumentar a interatividade.
-**Funcionalidades Principais
+
+
+
